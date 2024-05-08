@@ -1,0 +1,21 @@
+.spacer_x {
+    height: 150px;
+}
+.spacer_xl {
+    height: 200px;
+}
+.spacer {
+    height: 100px;
+}
+.spacer_l {
+    height: 50px;
+}
+.spacer_s {
+    height: 44px;
+}
+
+@media (max-width: 768px) {
+    .spacer_xl {
+        height: calc(200px / 2);
+    }
+}

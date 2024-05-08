@@ -1,0 +1,21 @@
+.partners {
+    background-color: #171717;
+    padding: 28px;
+    margin: 0 auto;
+}
+.partners > p {
+    margin-bottom: 12px;
+}
+.partners > * {
+    text-align: center;
+    margin: 0 auto;
+}
+.partners__items > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+.partners_item {
+    max-width: 106px;
+    height: auto;
+    width: 100%;
+}
